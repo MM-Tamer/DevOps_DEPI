@@ -1,7 +1,7 @@
 #!/bin/bash
 options=({1..5})
 exit=0
-
+echo "welcome to user managment"
 
 while [[ exit -ne 1 ]]; do
 	clear;
